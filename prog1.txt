@@ -1,0 +1,11 @@
+mesa
+silla
+television
+zapatilla
+ordenador
+diccionario
+sofa
+cargador
+botella
+tendedero
+
